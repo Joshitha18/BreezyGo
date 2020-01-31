@@ -15,6 +15,7 @@ bin/solr start
 In case you get error first stop the instance and start again.
 
 bin/solr stop
+
 bin/solr start
 
 
