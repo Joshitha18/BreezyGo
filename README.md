@@ -4,6 +4,7 @@ BreezyGo is search engine like google for all tourism related searches.
 Installation Guide :
 
 Clone the repo BreezyGo.
+
 PS : Note that you need to open UI folder from your browser. so, paste that folder in your document root.
 
 
